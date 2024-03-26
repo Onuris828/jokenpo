@@ -1,6 +1,6 @@
 # jokenpo
 
-Estudos 2
+App jokenpo.
 
 ## Getting Started
 
